@@ -1,0 +1,18 @@
+# Frontend
+farmdirect_frontend/node_modules/
+farmdirect_frontend/dist/
+farmdirect_frontend/.env
+
+# Backend
+Minor_FarmDirect/target/
+Minor_FarmDirect/.env
+Minor_FarmDirect/src/main/resources/application-secret.properties
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
